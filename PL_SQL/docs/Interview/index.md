@@ -73,7 +73,7 @@ But if you want a separate branch, you shouldn’t push site/ manually — you s
 
 MkDocs has a built-in command to create and push the built site to a separate branch:
 
-mkdocs gh-deploy --remote-branch gh-pages
+mkdocs gh-deploy 
 
 How It Works
 
