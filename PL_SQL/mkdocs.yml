@@ -1,14 +1,14 @@
-site_name: Why For You
+site_name: pl_sql_interview
 theme:
   name: material
   palette:
-    - scheme: default       # Light theme
+    - scheme: slate       # Light theme
       primary: green
       accent: indigo
       toggle:
         icon: material/weather-night  # Dark mode icon
         name: Switch to dark mode
-    - scheme: slate         # Dark theme
+    - scheme: default         # Dark theme
       toggle:
         icon: material/white-balance-sunny
         name: Switch to light mode
